@@ -1,8 +1,0 @@
-excerpt_separator: ""
-pygments: true
-markdown: kramdown
-url: http://brocchini.github.io
-title: A test blog to evaluate tinypress
-tagline: A log of everyday life
-description: My awesome new site
-paginate: 5
