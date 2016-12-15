@@ -1,27 +1,15 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Sysco Tech Blog!"
 date:   2016-06-13 10:51:47 +0530
 categories: jekyll update
 img: image-1.png
 categories: [one, two]
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+This is the very beginning of our tech blog, in future posts will be sharing our experiences of Sysco's digital transformation journey.
+The first posts will be focused on breaking monolithic enterprise applications into smaller chunks by incrementally adopting [microservices architecture][msa-wikipedia].
+While there are tons of articles and books about microservices, most of them explore the topic from the greenfield project perspective.
+We think that there will be a lot of learning on our own in the topic of transforming a large traditional enterprise application architecture into the microservices way of building, deploying, testing and releasing apps.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[msa-wikipedia]: https://en.wikipedia.org/wiki/Microservices
