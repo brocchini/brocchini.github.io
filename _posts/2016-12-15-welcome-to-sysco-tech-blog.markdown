@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Sysco Tech Blog!"
-date:   2016-12-16 08:20:47 +0530
+date:   2016-12-15 08:20:47 +0530
 categories: jekyll update
 img: image-1.png
 categories: [one, two]
