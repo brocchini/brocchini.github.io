@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome toTech Blog!"
+title:  "Welcome toTech Blog !"
 date:   2016-12-15 08:20:47 +0530
 categories: jekyll update
 img: image-1.png
